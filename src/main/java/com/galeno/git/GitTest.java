@@ -7,5 +7,7 @@ public class GitTest {
         System.out.println("heheda");
         System.out.println("hellogit");
         System.out.println("hellogittest");
+        System.out.println("test");
+
     }
 }
