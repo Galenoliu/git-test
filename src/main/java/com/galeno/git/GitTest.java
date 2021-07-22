@@ -9,6 +9,8 @@ public class GitTest {
         System.out.println("hellogittest");
         System.out.println("test");
         System.out.println("pushTest");
+         System.out.println("pushTest");
+         System.out.println("pullTest");
 
     }
 }
