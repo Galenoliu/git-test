@@ -6,5 +6,7 @@ public class GitTest {
         System.out.println("大爷的");
         System.out.println("heheda");
         System.out.println("hellogit");
+        System.out.println("test");
+
     }
 }
